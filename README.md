@@ -1,4 +1,4 @@
-# M7DataSP
+# M7DataSP (Data Science Practicum)
 This repository serves for homework submissions.
 
 ## CNN dataset
